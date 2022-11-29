@@ -1,8 +1,10 @@
+### The Quick Fix 
+
 - 🔭 I’m Gedoni Ani
 
-- 🌱 I’m currently web dev, AI and Machine learning
+- 🌱 I’m currently into web dev, AI and Machine learning
 
-- 👯 I’m looking to collaborate on projects using Laravel, Django, Vue and React
+- 👯 I’m looking forward to collaborate on projects using Laravel, Django, Vue and React
 
 - 💬 Lover of artificial intelligence and space exploration
 
