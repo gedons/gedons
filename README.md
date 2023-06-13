@@ -1,6 +1,6 @@
 ### The Quick Fix 
 
-- 🔭 I’m Gedoni Ani
+- 🔭 I am Gedoni Ani
 
 - 🌱 I’m currently into web dev, AI and Machine learning
 
