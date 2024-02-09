@@ -2,7 +2,7 @@
 
 - 🔭 I am Gedoni Ani
 
-- 🌱 Currently into web dev, AI, and Machine learning
+- 🌱 Currently into CyberSecurity, web dev, AI, and Machine learning
 
 - 👯 I’m looking forward to collaborating on projects using Laravel, Django, Node, Vue, and React
 
