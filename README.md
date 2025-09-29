@@ -14,6 +14,8 @@
 
 ### [![trophy](https://github-profile-trophy.vercel.app/?username=gedons&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
+![](https://komarev.com/ghpvc/?username=gedons&base=1000)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gedons&bg_color=0b090a&color=eed8ed&line=1a191a&point=eae1e1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🧰 Languages and Technologies:
