@@ -7,7 +7,6 @@ I work full-time as a developer and take on freelance and indie projects on the 
 ## What I'm working on
 
 - Building and shipping client products across web and mobile
-- My [portfolio](https://gedonidev.vercel.app) into a modern, interactive site
 - Co-building [Clan Head](https://clanhead.com)
 - Learning more about cybersecurity, AI and machine learning
 
