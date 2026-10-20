@@ -18,6 +18,7 @@ I work full-time as a developer and take on freelance and indie projects on the 
 | [Savor by Orido](https://savorbyorido.com) | Premium food and fresh juice delivery brand based in Lagos, Nigeria |
 | [TVN](https://thevictornja.org) | Portfolio and brand site for Victor Nja, with course sales and paid mentorship booking |
 | [Lummah Beauty](https://lummahbeauty.co.uk) | Aesthetics and skin rejuvenation provider located in Essex, United Kingdom |
+| [Aduvie Events](https://aduvieevents.com) | Highly-rated multi-purpose event center located in the Jahi District of Abuja, Nigeria |
 | [KO SWAP](https://koswap.co) | Crypto swap product for a client (ongoing) |
 
 ## Beyond code
