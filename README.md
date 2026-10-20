@@ -15,7 +15,7 @@ I work full-time as a developer and take on freelance and indie projects on the 
 | Project | What it is |
 | --- | --- |
 | [Tuff World](https://tuff-world.com) | Premium streetwear ecommerce platform for the Nigerian market |
-| [Savor by Orido](https://savorbyorido.com) | Premium food and fresh juice delivery brand based in Lagos, Nigeri |
+| [Savor by Orido](https://savorbyorido.com) | Premium food and fresh juice delivery brand based in Lagos, Nigeria |
 | [TVN](https://thevictornja.org) | Portfolio and brand site for Victor Nja, with course sales and paid mentorship booking |
 | [Lummah Beauty](https://lummahbeauty.co.uk) | Aesthetics and skin rejuvenation provider located in Essex, United Kingdom |
 | [KO SWAP](https://koswap.co) | Crypto swap product for a client (ongoing) |
