@@ -1,52 +1,32 @@
-### The Quick Fix 
+# Hi, I'm Gedoni Ani 👋
 
-- 🔭 I am Gedoni Ani
+**Software developer building web platforms, mobile apps and client products, with a focus on Nigerian markets.**
 
-- 🌱 Currently into CyberSecurity, web dev, AI, and Machine learning
+I work full-time as a developer and take on freelance and indie projects on the side, from ecommerce sites and marketplaces to mobile apps and internal tools.
 
-- 👯 I’m looking forward to collaborating on projects using Laravel, Django, Go, Python, Node, Vue, and React
+## What I'm working on
 
-- 💬 Lover of artificial intelligence and space exploration
+- Building and shipping client products across web and mobile
+- My [portfolio](https://gedonidev.vercel.app) into a modern, interactive site
+- Co-building [Clan Head](https://clanhead.com)
+- Learning more about cybersecurity, AI and machine learning
 
-- 📫 How to reach me: gedoniani@gmail.com
+## Selected work
 
+| Project | What it is |
+| --- | --- |
+| [KO SWAP](https://koswap.co) | Crypto swap product for a client, built on the Quidax API |
+| [Tuff World](https://tuff-world.com) | Premium streetwear ecommerce platform for the Nigerian market |
+| [Savor by Orido](https://savorbyorido.com) | Premium food and fresh juice delivery brand based in Lagos, Nigeri |
+| [TVN](https://thevictornja.org) | Portfolio and brand site for Victor Nja, with course sales and paid mentorship booking |
+| [Lummah Beauty](https://lummahbeauty.co.uk) | Aesthetics and skin rejuvenation provider located in Essex, United Kingdom |
 
+## Beyond code
 
-### [![trophy](https://github-profile-trophy.vercel.app/?username=gedons&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+Artificial intelligence, cybersecurity and space exploration.
 
-![](https://komarev.com/ghpvc/?username=gedons&base=1000)
+## Get in touch
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gedons&bg_color=0b090a&color=eed8ed&line=1a191a&point=eae1e1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+Open to freelance projects and collaborations.
 
-## 🧰 Languages and Technologies:
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px"> 
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="cpp" height="40"
-style="vertical-align:top; margin: 4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="cpp" height="40"
-style="vertical-align:top; margin: 4px">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="cpp" height="40"
-style="vertical-align:top; margin: 4px">
-      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="cpp" height="40"
-style="vertical-align:top; margin: 4px">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png" alt="cpp" height="40"
-style="vertical-align:top; margin: 4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="cpp" height="40"
-style="vertical-align:top; margin: 4px">
-
+[Portfolio](https://gedonidev.vercel.app) · [Email](mailto:gedoniani@gmail.com) · [LinkedIn](https://linkedin.com/in/gedonidev)
